@@ -1,0 +1,67 @@
+.maroon{
+    background-color: maroon;
+    border-bottom: 10px solid orangered;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+ul{
+    display: flex;
+    list-style: none;
+}
+li{
+    padding-right: 15px;
+}
+.frontend{
+    color: white;
+    font-size: 30px;
+    font-family: Calibri Light (Headings);
+}
+
+.master{
+    color:tomato;
+    font-size: 30px;
+
+}
+
+ul li a{
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.joinbtn{
+    background-color: tomato;
+    color: white;
+    padding: 10px 15px 10px 15px;
+    border-radius: 20px;
+    border: 1px solid tomato;
+    
+}
+.grey{
+    background-color: grey;
+    padding: 10% 40%;
+    display: flex;
+    justify-content: space-between;
+    font-size: larger;
+    
+}
+.form-row{
+    background-color: rgb(116, 113, 113);
+    padding: 2% 2%;
+    display: flex;
+    justify-content: space-between;
+
+}
+.black{
+    background-color: rgb(150, 7, 7);
+    padding: 1% 4%;
+    display: grid;
+    justify-content: space-between;  
+    
+    
+}
+.fmlogo{
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(236, 35, 35);
+    font-size: large;
